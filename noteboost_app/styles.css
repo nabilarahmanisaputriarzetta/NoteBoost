@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .bg-tt-rectangle-9tcontainer-trectangle-18bg-line {
+    background-image: url(/assets/Line.svg);
+  }
+  .font-inter {
+    font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+  }
+  .bg-t-bg-union-mata-pelajaran {
+    background-image: url(/assets/Union.svg);
+  }
+  .bg-t-close {
+    background-image: url(/assets/Group.svg);
+  }
+}
